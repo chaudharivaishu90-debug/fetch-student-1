@@ -1,0 +1,21 @@
+.my-form{
+    background-image:url("https://images.pexels.com/photos/35962639/pexels-photo-35962639.jpeg?cs=srgb&dl=pexels-shubham-jana-10955697-35962639.jpg&fm=jpg");
+}
+.bg-image{
+    background-image: url("https://images.pexels.com/photos/16166408/pexels-photo-16166408/free-photo-of-back-view-on-a-train-at-the-station.jpeg?auto=compress&w=1260&h=750&dpr=1");
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    filter: blur(4px);
+z-index: -1;
+position: fixed;
+top: 0;
+left: 0;
+
+
+}
+ th{
+    white-space: nowrap;
+ }
